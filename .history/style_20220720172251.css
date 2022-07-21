@@ -22,10 +22,6 @@ a:hover {
     text-align: right
 }
 
-.button-main a {
-    text-decoration: none;
-}
-
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;

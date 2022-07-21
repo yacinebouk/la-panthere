@@ -18,12 +18,8 @@ a:hover {
     cursor: pointer;
 }
 
-.button-main {
+.site-navigation nav navbar-na {
     text-align: right
-}
-
-.button-main a {
-    text-decoration: none;
 }
 
 #page-loading-blocs-notifaction {
