@@ -850,7 +850,7 @@ h4 {
     .nav-center.navbar .nav {
         max-width: 100%
     }
-    .citation {
+    col-xs-12 col-md-8 col-md-offset-2 text-center {
         width: 100%;
     }
 }
@@ -1032,9 +1032,6 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
-    }
-    .citation {
-        width: 100%;
     }
 }
 
