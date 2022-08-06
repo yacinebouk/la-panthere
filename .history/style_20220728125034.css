@@ -5,7 +5,6 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    font-size: 20px;
 }
 
 a,
@@ -54,7 +53,6 @@ a:hover {
 }
 
 .bloc-lg {
-    font-size: 18px;
     padding: 100px 50px;
 }
 
